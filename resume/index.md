@@ -50,32 +50,33 @@ Jun 2016 - Jan 2018
 > Tools: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator.
 
 ## Certifications
-- **The Ultimate Redux Course** 
+<!-- - **The Ultimate Redux Course**   -->
+### The Ultimate Redux Course
 Dec 2022 - [Code With Mosh](https://codewithmosh.com/p/ultimate-redux)
 
 ![The Ultimate Redux Course](../assets/certificates/mosh-the-ultimate-redux-course.png)  
 
-- **Mastering React** 
+### Mastering React
 Jun 2022 - [Code With Mosh](https://codewithmosh.com/p/mastering-react)
 
 ![Mastering React](../assets/certificates/mosh-mastering-react.png)  
 
-- **The Ultimate Typescript Course** 
+### The Ultimate Typescript Course
 Jun 2022 - [Code With Mosh](https://codewithmosh.com/p/the-ultimate-typescript)
 
 ![The Ultimate Typescript Course](../assets/certificates/mosh-the-ultimate-typescript-course.png)  
 
-- **The Complete Node.js Course** 
+### The Complete Node.js Course
 May 2022 - [Code With Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
 
 ![The Complete Node.js Course](../assets/certificates/mosh-the-complete-node-js-course.png)  
 
-- **Introduction to Design Data Lakes on AWS** 
+### Introduction to Design Data Lakes on AWS
 Jan 2022 - [Coursera](https://www.coursera.org/learn/introduction-to-designing-data-lakes-in-aws/)
 
 ![Introduction to Design Data Lakes on AWS](../assets/certificates/coursera-intro-to-design-datalakes-on-aws.png)  
 
-- **Programação criativa: produza peças visuais com Javascript** 
+### Programação criativa: produza peças visuais com Javascript
 Jan 2022 - [Domestika](https://www.domestika.org/pt/courses/2729-programacao-criativa-produza-pecas-visuais-com-javascript)
 
 ![Programação criativa: produza peças visuais com Javascript](../assets/certificates/domestika-producao-criativa.png)  
