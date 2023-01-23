@@ -1,24 +1,24 @@
 ## Languages
 <div style="display:inline_block" align="center"><br>
-  <img align="center" alt="html" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/html.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/css.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/javascript.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/react.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/nodejs.svg"> 
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/json.svg" />
+  <img align="center" alt="html" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/html.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/css.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/javascript.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/react.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/nodejs.svg"> 
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/json.svg" />
 </div>
 
 ## Techs and frameworks
 <div style="display:inline_block" align="center"><br>
-  <img align="center" alt="linux" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/linux.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/npm.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/git.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/nextjs.svg">
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/strapi.svg"> 
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/webpack.svg"> 
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/babel.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/prettier.svg"> 
-  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/eslint.svg" />
+  <img align="center" alt="linux" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/linux.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/npm.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/git.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/nextjs.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/strapi.svg"> 
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/webpack.svg"> 
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/babel.svg" />
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/prettier.svg"> 
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/eslint.svg" />
 </div>
 
 ## Libs
