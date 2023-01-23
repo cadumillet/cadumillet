@@ -1,5 +1,5 @@
 ## Languages
-<div style="display:inline_block" align="center"><br>
+<div style="display:inline_block;line-height:4;" align="center"><br>
   <img align="center" alt="html" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/html.svg">
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/css.svg">
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/assets/icons/javascript.svg">
