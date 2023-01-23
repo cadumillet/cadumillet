@@ -14,6 +14,7 @@
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/npm.svg">
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/git.svg">
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/nextjs.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/strapi.svg"> 
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/webpack.svg"> 
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/babel.svg" />
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/prettier.svg"> 
@@ -49,6 +50,7 @@
 <div style="display:inline_block" align="center"><br>
   <img align="center" alt="mongodb" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/mongodb.svg">
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/mysql.svg">
+  <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/sheets.svg">
   <img align="center" height="30" width="40" src="https://github.com/cadumillet/cadumillet/blob/main/icons/airtable.svg">
 </div>
 
