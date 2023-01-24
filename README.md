@@ -1,6 +1,5 @@
 ## Languages
 <div style="display:inline_block;" align="center"><br>
-![html](assets/icons/html.svg)
   <img align="center" alt="html" height="30" width="40" src="./assets/icons/html.svg">
   <img align="center" height="30" width="40" src="./assets/icons/css.svg">
   <img align="center" height="30" width="40" src="./assets/icons/javascript.svg">
