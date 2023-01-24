@@ -66,7 +66,7 @@
   <img align="center" height="30" width="40" src="./assets/icons/ec2.svg">
 </div>
 
-<!-- ## To learn... -->
+## To learn...
 <div style="display:inline_block" align="center"><br>
   <img align="center" alt="graphql" height="30" width="40" src="./assets/icons/graphql.svg">
   <img align="center" height="30" width="40" src="./assets/icons/docker.svg">
