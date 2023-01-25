@@ -15,6 +15,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
 - [Maxime Heckel](https://maximeheckel.com/)
+- [Bobby Hadz](https://bobbyhadz.com/)
 
 ## Readings
 - [[GA] Tracking Facebook Ads](https://www.ruleranalytics.com/blog/analytics/tracking-facebook-ads-in-google-analytics/)
