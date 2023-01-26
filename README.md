@@ -45,8 +45,6 @@
   <img align="center" height="30" width="40" src="./assets/icons/lightroom.svg" />
   <img align="center" height="30" width="40" src="./assets/icons/analytics.svg">
   <img align="center" height="30" width="40" src="./assets/icons/atlassian.svg"> 
-  <img align="center" height="30" width="40" src="./assets/icons/photoshop.svg" />
-  <img align="center" height="30" width="40" src="./assets/icons/lightroom.svg" />
 </div>
 
 <!-- ## Databases -->
@@ -64,13 +62,13 @@
   <img align="center" height="30" width="40" src="./assets/icons/gitlab.svg">
   <img align="center" alt="github" height="30" width="40" src="./assets/icons/heroku.svg">
   <img align="center" height="30" width="40" src="./assets/icons/firebase.svg">
-  <img align="center" height="30" width="40" src="./assets/icons/ec2.svg">
 </div>
 
 ## To learn...
 <div style="display:inline_block" align="center"><br>
   <img align="center" alt="graphql" height="30" width="40" src="./assets/icons/graphql.svg">
   <img align="center" height="30" width="40" src="./assets/icons/docker.svg">
+  <img align="center" height="30" width="40" src="./assets/icons/ec2.svg">
   <img align="center" alt="github" height="30" width="40" src="./assets/icons/aws.svg">
   <img align="center" alt="github" height="30" width="40" src="./assets/icons/azure.svg">
   <img align="center" height="30" width="40" src="./assets/icons/postgressql.svg">
