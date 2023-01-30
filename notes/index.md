@@ -12,6 +12,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Reach UI](https://reach.tech/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Regex](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+- [DNS Propagation Checker](https://www.whatsmydns.net/)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
