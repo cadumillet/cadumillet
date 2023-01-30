@@ -13,6 +13,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Radix UI](https://www.radix-ui.com/)
 - [Regex](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 - [DNS Propagation Checker](https://www.whatsmydns.net/)
+- [How DNS and domains work](https://vercel.com/docs/concepts/projects/domains)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
