@@ -14,6 +14,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Regex](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 - [DNS Propagation Checker](https://www.whatsmydns.net/)
 - [How DNS and domains work](https://vercel.com/docs/concepts/projects/domains)
+- [Cronitor](https://crontab.guru/#*_*_*_*_*)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
@@ -21,6 +22,8 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Bobby Hadz](https://bobbyhadz.com/)
 
 ## Readings
+- [[Python] Deploy Flask App to Vercel](https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k)
+- [[Python] Structurin Project](https://docs.python-guide.org/writing/structure/)
 - [[React] Create OTP with Typescript](https://dominicarrojado.com/posts/how-to-create-your-own-otp-input-in-react-and-typescript-with-tests-part-1/)
 - [[GA] Tracking Facebook Ads](https://www.ruleranalytics.com/blog/analytics/tracking-facebook-ads-in-google-analytics/)
 - [[GA] Configurar no NextJS](https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021)
