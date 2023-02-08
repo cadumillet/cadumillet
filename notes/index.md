@@ -13,7 +13,6 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Radix UI](https://www.radix-ui.com/)
 - [Regex](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 - [DNS Propagation Checker](https://www.whatsmydns.net/)
-- [How DNS and domains work](https://vercel.com/docs/concepts/projects/domains)
 - [Cronitor](https://crontab.guru/#*_*_*_*_*)
 
 ## Blogs
@@ -22,6 +21,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Bobby Hadz](https://bobbyhadz.com/)
 
 ## Readings
+- [How DNS and domains work](https://vercel.com/docs/concepts/projects/domains)
 - [[Python] Deploy Flask App to Vercel](https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k)
 - [[Python] Structurin Project](https://docs.python-guide.org/writing/structure/)
 - [[React] Create OTP with Typescript](https://dominicarrojado.com/posts/how-to-create-your-own-otp-input-in-react-and-typescript-with-tests-part-1/)
