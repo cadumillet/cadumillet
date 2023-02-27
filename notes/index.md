@@ -11,6 +11,9 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [GA Campaign URL Builder](https://ga-dev-tools.web.app/ga4/campaign-url-builder/)
 - [Reach UI](https://reach.tech/)
 - [Radix UI](https://www.radix-ui.com/)
+- [Regex](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+- [DNS Propagation Checker](https://www.whatsmydns.net/)
+- [Cronitor](https://crontab.guru/#*_*_*_*_*)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
@@ -18,6 +21,13 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Bobby Hadz](https://bobbyhadz.com/)
 
 ## Readings
+- [[GCP] Upload file to GCS](https://www.woolha.com/tutorials/node-js-upload-file-to-google-cloud-storage)
+- [[GCP] How to read/write file to GCS](https://redstapler.co/how-to-read-write-file-to-google-cloud-storage-with-javascript/)
+- [[GCP] How to load data into BigQuery with NodeJS](https://mydataschool.com/blog/how-to-load-data-into-bigquery-with-serverless-node-js/)
+- [[Web] How DNS and domains work](https://vercel.com/docs/concepts/projects/domains)
+- [[Python] Deploy Flask App to Vercel](https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k)
+- [[Python] Structurin Project](https://docs.python-guide.org/writing/structure/)
+- [[React] Create OTP with Typescript](https://dominicarrojado.com/posts/how-to-create-your-own-otp-input-in-react-and-typescript-with-tests-part-1/)
 - [[GA] Tracking Facebook Ads](https://www.ruleranalytics.com/blog/analytics/tracking-facebook-ads-in-google-analytics/)
 - [[GA] Configurar no NextJS](https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021)
 - [[CSS] Margin considered harmful](https://mxstbr.com/thoughts/margin/)
