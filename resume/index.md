@@ -9,6 +9,23 @@ IT professional with diversified skill set encompassing web development, project
 5+ years combined development and technical leadership.  
 7+ years combined management, marketing, design, UX and TI. 
 
+## Tech Stacks
+**Languages and frameworks:** HTML, CSS, Javascript, ReactJS, NodeJS, TypescriptJS, NextJS  
+
+**Frameworks:** NextJS, Strapi, Gatsby  
+
+**Technologies:** npm, Yarn, Git, Webpack, Babel, Prettier, ESLint  
+
+**Libraries:** Styled-components, Material UI, Bootstrap, Tailwind, Redux, Jest  
+
+**Tools:** VSCode, Webflow, Postman, Figma, Adobe Creative Cloud (Xd, Ai, Ps, Lr), Google Analytics, Atlassian  
+
+**Databases:** MongoDB, MySql, GoogleSheets, Airtable, Hubspot  
+
+**Cloud:** Github, Gitlab, Heroku, GCP (Firebase, Bigquery, Cloud Storage)  
+
+**OS:** MacOS, Linux
+
 ## Experience
 
 ### Provider IT
