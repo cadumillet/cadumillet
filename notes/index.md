@@ -14,6 +14,8 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Regex](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 - [DNS Propagation Checker](https://www.whatsmydns.net/)
 - [Cronitor](https://crontab.guru/#*_*_*_*_*)
+- [System Font Stack](https://systemfontstack.com/)
+- [CSS Font Stack](https://www.cssfontstack.com/)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
