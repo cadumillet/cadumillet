@@ -9,4 +9,3 @@
   <img align="center" height="30" width="40" src="./assets/icons/typescript.svg">
   <img align="center" height="30" width="40" src="./assets/icons/nextjs.svg">
 </div>
-
