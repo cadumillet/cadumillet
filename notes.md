@@ -23,6 +23,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Bobby Hadz](https://bobbyhadz.com/)
 
 ## Readings
+- [[React] Building Custom Table Component](https://dev.to/franciscomendes10866/how-to-build-a-dynamic-table-component-in-react-4ff8)
 - [[GCP] Upload file to GCS](https://www.woolha.com/tutorials/node-js-upload-file-to-google-cloud-storage)
 - [[GCP] How to read/write file to GCS](https://redstapler.co/how-to-read-write-file-to-google-cloud-storage-with-javascript/)
 - [[GCP] How to load data into BigQuery with NodeJS](https://mydataschool.com/blog/how-to-load-data-into-bigquery-with-serverless-node-js/)
