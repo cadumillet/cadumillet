@@ -18,6 +18,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [CSS Font Stack](https://www.cssfontstack.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Twilwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+- [Github Shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
