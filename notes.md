@@ -16,6 +16,9 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Cronitor](https://crontab.guru/#*_*_*_*_*)
 - [System Font Stack](https://systemfontstack.com/)
 - [CSS Font Stack](https://www.cssfontstack.com/)
+- [CSS Tricks](https://css-tricks.com/)
+- [Twilwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+- [Github Shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 
 ## Blogs
 - [Eric A. Mayer](https://meyerweb.com/)
@@ -23,6 +26,9 @@ These are my notes to help me keep things organized. It's not my goal here to di
 - [Bobby Hadz](https://bobbyhadz.com/)
 
 ## Readings
+- [ReactJS - Add Pagination](https://blog.logrocket.com/add-pagination-next-js-app/)
+- [ReactJS - React and Typescript](https://fettblog.eu/typescript-react/)
+- [ReactJS - Building Custom Table Component](https://dev.to/franciscomendes10866/how-to-build-a-dynamic-table-component-in-react-4ff8)
 - [GCP - Upload file to GCS](https://www.woolha.com/tutorials/node-js-upload-file-to-google-cloud-storage)
 - [GCP - How to read/write file to GCS](https://redstapler.co/how-to-read-write-file-to-google-cloud-storage-with-javascript/)
 - [GCP - How to load data into BigQuery with NodeJS](https://mydataschool.com/blog/how-to-load-data-into-bigquery-with-serverless-node-js/)
