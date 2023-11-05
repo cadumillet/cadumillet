@@ -1,0 +1,13 @@
+credential.helper=osxkeychain
+init.defaultbranch=main
+alias.ca=commit -am
+alias.cm=commit -m
+alias.st=status -s
+alias.lp=log --pretty=format:'%Cred%h%Creset %C(yellow)%d%Creset %s %Cgreen(%cd)%Creset' --abbrev-commit --date=rfc
+alias.lpn=log --pretty=format:'%Cred%h%Creset %C(yellow)%d%Creset %s %Cgreen(%cr)%Creset - %C(magenta)%cn%Creset' --abbrev-commit --date=relative -n
+alias.lpu=log --pretty=format:'%Cred%h%Creset %C(yellow)%d%Creset %s %Cgreen(%cr)%Creset - %C(magenta)%cn%Creset' --abbrev-commit --date=relative
+alias.lpd=log --pretty=format:'%Cgreen%cd%Creset %Cred%h%Creset %C(yellow)%d%Creset %s' --abbrev-commit --date=short
+user.name=Cadu Millet
+user.email=cadumillet@icloud.com
+core.editor=vim
+core.autocrlf=false
