@@ -1,7 +1,7 @@
 {
   "workbench.editor.openPositioning": "last",
   "workbench.colorTheme": "Xcode Default (Dark)",
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "editor.fontFamily": "SF Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontWeight": 1000,
   "[javascriptreact]": {
@@ -23,5 +23,19 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "extensions.ignoreRecommendations": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwind-fold.autoFold": false
 }
