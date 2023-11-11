@@ -1,7 +1,6 @@
 # Resume
 Carlos Eduardo Lima Millet  
 25 years  
-cadumillet@icloud.com
 
 ## About me
 IT professional with diversified skill set encompassing web development, project management, product design and copywriting. Worked in different market segments, such as financial business and wastewater/sewage treatment systems. My focus was to develop fully responsive web applications (client and server sides).
